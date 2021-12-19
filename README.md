@@ -66,6 +66,7 @@ Interval
 
 Linked List
 - Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/ ✅
+- Odd Even Linked List - https://leetcode.com/problems/odd-even-linked-list ✅
 - Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
