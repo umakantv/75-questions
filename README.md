@@ -65,11 +65,11 @@ Interval
 ---
 
 Linked List
-- Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/ ✅
-- Odd Even Linked List - https://leetcode.com/problems/odd-even-linked-list ✅
+- Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/ ✅ ⭕️
+- Odd Even Linked List - https://leetcode.com/problems/odd-even-linked-list ✅ ⭕️
 - Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
-- Add two numbers - https://leetcode.com/problems/add-two-numbers/ ✅
+- Add two numbers - https://leetcode.com/problems/add-two-numbers/  ✅ ⭕️
 - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
@@ -105,6 +105,7 @@ Tree
 
 - Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/ ✅
 - Same Tree - https://leetcode.com/problems/same-tree/ ✅
+- Binary Tree Zigzag Level Order Traversal - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ✅ ⭕️
 - Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
 - Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
@@ -125,3 +126,10 @@ Heap
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+
+
+## Note 
+| Symbol | Significance |
+|-|-|
+| ✅ | Done |
+| ⭕️ | Added by @umakantv |
