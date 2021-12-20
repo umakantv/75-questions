@@ -144,8 +144,9 @@
 | Same Tree | [Leetcode](https://leetcode.com/problems/same-tree/) | ✅ |
 | Invert/Flip Binary Tree | [Leetcode](https://leetcode.com/problems/invert-binary-tree/) |
 | Binary Tree Maximum Path Sum | [Leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
-| Binary Tree Level Order Traversal | [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| Binary Tree Level Order Traversal | [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ |
 | Binary Tree Zigzag Level Order Traversal | [Leetcode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  ✅ ⭕️ |
+| Binary Tree Right Side View | [Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅ ⭕️ |
 | Serialize and Deserialize Binary Tree | [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
 | Subtree of Another Tree | [Leetcode](https://leetcode.com/problems/subtree-of-another-tree/) |
 | Construct Binary Tree from Preorder and Inorder Traversal | [Leetcode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
@@ -168,7 +169,8 @@
 
 
 ## Note 
+
 | Tag | Significance |
 |-|-|
-| ✅ | Dome |
+| ✅ | Done |
 | ⭕️ | Added by @umakantv |
