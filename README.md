@@ -1,6 +1,7 @@
 # 75 Questions .. and more
 
 # Table of Content
+
 - [75 Questions .. and more](#75-questions--and-more)
 - [Table of Content](#table-of-content)
 - [Topics](#topics)
@@ -18,6 +19,7 @@
 
 # Topics
 ## Array
+
 | Title | Link | Tags |
 | - | - | - |
 | Two Sum | [Leetcode](https://leetcode.com/problems/two-sum/) | ✅ |
