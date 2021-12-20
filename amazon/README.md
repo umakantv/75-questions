@@ -12,7 +12,7 @@
 struct Node {
     int val;
     Node *left, *right;
-    Node(int a): val(a), left(nullprt), right(nullptr) {}
+    Node(int a): val(a), left(nullptr), right(nullptr) {}
 };
 
 void printLeftView(Node* root) {
