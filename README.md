@@ -29,9 +29,9 @@
 | Maximum Subarray | [Leetcode](https://leetcode.com/problems/maximum-subarray/) | ✅ |
 | Maximum Product Subarray | [Leetcode](https://leetcode.com/problems/maximum-product-subarray/) | ✅ |
 | Find Minimum in Rotated Sorted Array | [Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ |
-| Search in Rotated Sorted Array | [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | |
-| 3Sum | [Leetcode](https://leetcode.com/problems/3sum/) | |
-| Container With Most Water | [Leetcode](https://leetcode.com/problems/container-with-most-water/) | |
+| Search in Rotated Sorted Array | [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ |
+| 3Sum | [Leetcode](https://leetcode.com/problems/3sum/) | ✅ |
+| Container With Most Water | [Leetcode](https://leetcode.com/problems/container-with-most-water/) | ✅ |
 
 ---
 
