@@ -24,9 +24,9 @@
 
 | Title | Link | Tags |
 | - | - | - |
-| [LRU Cache](/design/least-recently-used-cache) | [Leetcode](https://leetcode.com/problems/lru-cache/) | ✅ |
-| [Linked List](/design/linked-list) | [Leetcode](https://leetcode.com/problems/design-linked-list/) | ✅ |
-| [Multiset](/design/multiset) | [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | ✅ |
+| [LRU Cache](/75-questions/design/least-recently-used-cache) | [Leetcode](https://leetcode.com/problems/lru-cache/) | ✅ |
+| [Linked List](/75-questions/design/linked-list) | [Leetcode](https://leetcode.com/problems/design-linked-list/) | ✅ |
+| [Multiset](./design/multiset) | [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | ✅ |
 
 ## Array
 
