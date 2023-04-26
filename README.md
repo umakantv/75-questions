@@ -42,6 +42,9 @@
 | Search in Rotated Sorted Array | [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ |
 | 3Sum | [Leetcode](https://leetcode.com/problems/3sum/) | ✅ |
 | Container With Most Water | [Leetcode](https://leetcode.com/problems/container-with-most-water/) | ✅ |
+| Combination Sum I | [Leetcode](https://leetcode.com/problems/combination-sum/) | ✅ ⭕️ |
+| [Combination Sum II](https://umakantv.com/blog/combination-sum-ii) | [Leetcode](https://leetcode.com/problems/combination-sum-ii/) | ✅ ⭕️ |
+| Combination Sum III | [Leetcode](https://leetcode.com/problems/combination-sum-iii/) | ✅ ⭕️ |
 
 ---
 
