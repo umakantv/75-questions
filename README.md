@@ -5,6 +5,7 @@
 - [75 Questions .. and more](#75-questions--and-more)
 - [Table of Content](#table-of-content)
 - [Topics](#topics)
+	- [Low-Level Design](#low-level-design)
 	- [Array](#array)
 	- [Binary](#binary)
 	- [Dynamic Programming](#dynamic-programming)
@@ -18,6 +19,15 @@
 	- [Note](#note)
 
 # Topics
+
+## Low-Level Design
+
+| Title | Link | Tags |
+| - | - | - |
+| [LRU Cache](/design/least-recently-used-cache) | [Leetcode](https://leetcode.com/problems/lru-cache/) | ✅ |
+| [Linked List](/design/linked-list) | [Leetcode](https://leetcode.com/problems/design-linked-list/) | ✅ |
+| [Multiset](/design/multiset) | [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | ✅ |
+
 ## Array
 
 | Title | Link | Tags |
