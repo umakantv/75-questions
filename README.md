@@ -16,6 +16,7 @@
 	- [String](#string)
 	- [Tree](#tree)
 	- [Heap](#heap)
+	- [Adhoc](#adhoc)
 	- [Note](#note)
 
 # Topics
@@ -24,8 +25,8 @@
 
 | Title | Link | Tags |
 | - | - | - |
-| [LRU Cache](/75-questions/design/least-recently-used-cache) | [Leetcode](https://leetcode.com/problems/lru-cache/) | ✅ |
-| [Linked List](/75-questions/design/linked-list) | [Leetcode](https://leetcode.com/problems/design-linked-list/) | ✅ |
+| [LRU Cache](./design/least-recently-used-cache) | [Leetcode](https://leetcode.com/problems/lru-cache/) | ✅ |
+| [Linked List](./design/linked-list) | [Leetcode](https://leetcode.com/problems/design-linked-list/) | ✅ |
 | [Multiset](./design/multiset) | [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | ✅ |
 
 ## Array
@@ -147,6 +148,7 @@
 | Palindromic Substrings | [Leetcode](https://leetcode.com/problems/palindromic-substrings/) |
 | Encode and Decode Strings (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/encode-and-decode-strings/) |
 
+
 ---
 
 ## Tree
@@ -179,6 +181,13 @@
 | Merge K Sorted Lists | [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | Top K Frequent Elements | [Leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | Find Median from Data Stream | [Leetcode](https://leetcode.com/problems/find-median-from-data-stream/) |
+
+
+## Adhoc
+
+| Title | Link | Tags |
+| - | - | - |
+| [Convert Integer to Roman Numeral](./adhoc/num-to-roman) | [Leetcode](https://leetcode.com/problems/integer-to-roman/) | ✅ ⭕️ |
 
 
 ## Note 
