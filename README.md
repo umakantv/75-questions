@@ -46,6 +46,7 @@
 | Combination Sum I | [Leetcode](https://leetcode.com/problems/combination-sum/) | ✅ ⭕️ |
 | [Combination Sum II](https://umakantv.com/blog/combination-sum-ii) | [Leetcode](https://leetcode.com/problems/combination-sum-ii/) | ✅ ⭕️ |
 | Combination Sum III | [Leetcode](https://leetcode.com/problems/combination-sum-iii/) | ✅ ⭕️ |
+| [Asteroid Collision](./stacks/asteroid-collision) | [Leetcode](https://leetcode.com/problems/asteroid-collision/) | ✅ ⭕️ |
 
 ---
 
