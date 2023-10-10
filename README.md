@@ -47,6 +47,7 @@
 | [Combination Sum II](https://umakantv.com/blog/combination-sum-ii) | [Leetcode](https://leetcode.com/problems/combination-sum-ii/) | ✅ ⭕️ |
 | Combination Sum III | [Leetcode](https://leetcode.com/problems/combination-sum-iii/) | ✅ ⭕️ |
 | [Asteroid Collision](./stacks/asteroid-collision) | [Leetcode](https://leetcode.com/problems/asteroid-collision/) | ✅ ⭕️ |
+| [Minimum Number of Operations to Make Array Continuous](./arrays/array-continuous-min-operations) | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | ✅ ⭕️ |
 
 ---
 

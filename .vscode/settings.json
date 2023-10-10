@@ -1,5 +1,9 @@
 {
 	"files.associations": {
-		"iterator": "cpp"
-	}
+		"iterator": "cpp",
+		"vector": "cpp",
+		"iosfwd": "cpp",
+		"algorithm": "cpp"
+	},
+	"cmake.configureOnOpen": false
 }
