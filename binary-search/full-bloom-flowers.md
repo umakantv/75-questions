@@ -25,11 +25,11 @@ Example 1:
 
 Constraints:
 
-* `1 <= flowers.length <= 5 * 104`
+* `1 <= flowers.length <= 5 * 10^4`
 * `flowers[i].length == 2`
-* `1 <= start_i <= end_i <= 109`
-* `1 <= people.length <= 5 * 104`
-* `1 <= people[i] <= 109`
+* `1 <= start_i <= end_i <= 10^9`
+* `1 <= people.length <= 5 * 10^4`
+* `1 <= people[i] <= 10^9`
 
 
 # Intuition
