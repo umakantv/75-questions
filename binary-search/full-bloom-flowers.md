@@ -50,8 +50,7 @@ We add +1 to each day when flower start blooming, that is each `start_i`.
 And we subtract 1 from each day when flower wilts, i.e. `end_i + 1`. 
 For example, if a flower is blooming from day 1 to day 3, we add 1 to day 1, and we have to subtract 1 from day 4 as flower is bloomed till day 3 only.
 
-For example:
-```[[1,6],[3,7],[9,12],[4,13]]```
+For example: [[1,6],[3,7],[9,12],[4,13]]
 
 | Day | Event |
 | --- | ----- |
@@ -64,8 +63,8 @@ For example:
 | 4   | +1    |
 | 14  | -1    |
 
-    Note:
-    Also, make sure to handle the duplicate days.
+> Note:
+> Also, make sure to handle the duplicate days.
 
 We can now sort the events by the day and get the cummulative sum to represent the number of flowers in full bloom on each day.
 
