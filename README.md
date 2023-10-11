@@ -48,6 +48,7 @@
 | Combination Sum III | [Leetcode](https://leetcode.com/problems/combination-sum-iii/) | ✅ ⭕️ |
 | [Asteroid Collision](./stacks/asteroid-collision) | [Leetcode](https://leetcode.com/problems/asteroid-collision/) | ✅ ⭕️ |
 | [Minimum Number of Operations to Make Array Continuous](./arrays/array-continuous-min-operations) | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | ✅ ⭕️ |
+| [Number of Flowers in Full Bloom](./binary-search/full-bloom-flowers) | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom) | ✅ ⭕️ |
 
 ---
 
