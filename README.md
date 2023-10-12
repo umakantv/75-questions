@@ -53,6 +53,7 @@
 ---
 
 ## Binary Search
+
 | Title | Link | Tags |
 | - | - | - |
 | [Minimum Number of Operations to Make Array Continuous](./binary-search/array-continuous-min-operations) | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | ✅ ⭕️ |
