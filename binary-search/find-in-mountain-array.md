@@ -42,6 +42,45 @@ Constraints:
 * `0 <= target <= 109`
 * `0 <= mountain_arr.get(index) <= 109`
 
+# Intuition
+
+A completely different approach using recursion, optimizing at each recursion step.
+Cache is not required for AC, but good to have.
+
+In a range, check the mid element with target.
+If target equal to mid, it is possible that the element could be at the left of mid as well.
+
+If target is not equal to mid, check left and right parts recursively.
+
+But we can avoid these steps.
+
+* If the mid is on the increasing slope and `target > mid`, ignore the left part.
+* If the mid is on the decreasing slope and `target > mid`, ignore the right part.
+
+```
+// mid is on decreasing slow, and target > mid
+                5
+            4       4
+       _3_
+    2
+1
+
+// mid is on decreasing slope, and target < mid
+        5
+            4
+                _3_           
+    2               2
+                        1
+```
+
+We need check by get the right neighbor of mid, and check whether it's bigger (increasing) or smaller (decreasing) than the mid.
+Complexity
+
+* Time complexity: O(log n)
+* Space complexity: O(n)
+
+
+
 # Solution
 
 ```cpp
@@ -54,36 +93,31 @@ Constraints:
  *     int length();
  * };
  */
-
 class Solution {
 public:
     int n;
-    int front, back;
     vector<int> cache;
 
     int get(int i, MountainArray &mountainArr) {
-        // if (i >= n) {
-        //     return -1;
-        // }
+        if (i >= n) {
+            return -1;
+        }
 
-        // if (cache[i] != -1) {
-        //     return cache[i];
-        // }
-        return mountainArr.get(i);
-
-        // cache[i] = num;
+        if (cache[i] != -1) {
+            return cache[i];
+        }
+        int num = mountainArr.get(i);
+        cache[i] = num;
         return num;
     }
 
     int checkInRange(int target, MountainArray &mountainArr, int l, int r) {
         int index = -1;
         if (l <= r) {
-            int front = get(l, mountainArr);
-            int back = get(r, mountainArr);
 
             int mid = l + (r - l)/2;
             int num = get(mid, mountainArr);
-            // printf("Left: %d, Right: %d, Mid: %d\n", l, r, mid);
+
             if (num == target) {
                 // let's check the left side as well
                 index = checkInRange(target, mountainArr, l, mid-1);
@@ -93,9 +127,15 @@ public:
                 return mid;
             }
 
+            if (l == r) {
+                return index;
+            }
+            // right neighbor gauranteed to exist
+            int neighbor = get(mid+1, mountainArr);
+
             // if mid is on the left slope
             // and target is right than num
-            if (num > front && num < back && target > num) {
+            if (num < neighbor && target > num) {
                 // then we don't need to check the left of mid
             } else {
                 int index = checkInRange(target, mountainArr, l, mid-1);
@@ -104,9 +144,9 @@ public:
                 }
             }
 
-            // if mid is on the right slow
-            // and the target is on the left of mid
-            if (num > back && num < front && target > num) {
+            // if mid is on the decreasing slope
+            // and the target > mid
+            if (num > neighbor && target > num) {
                 // then we don't need to check the right part
             } else {
                 int index = checkInRange(target, mountainArr, mid+1, r);
@@ -114,9 +154,7 @@ public:
                     return index;
                 }
             }
-
         }
-        // the whole range is checked
         return index;
     }
 
