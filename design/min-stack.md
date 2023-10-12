@@ -1,4 +1,6 @@
-# Problem Statement
+# Min Stack
+
+## Problem Statement
 
 Leetcode: [155. Min Stack](https://leetcode.com/problems/min-stack/)
 
@@ -42,6 +44,7 @@ Constraints:
 * At most 3 * 104 calls will be made to push, pop, top, and getMin.
 
 
+## Solution
 
 ```cpp
 class Node {

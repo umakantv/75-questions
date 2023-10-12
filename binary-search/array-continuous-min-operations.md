@@ -1,5 +1,6 @@
+# Minimum Number of Operations to Make Array Continuous
 
-# Problem Statement
+## Problem Statement
 
 Leetcode: [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
 
@@ -47,7 +48,7 @@ Constraints:
 
 
 
-# Solution
+## Solution
 
 ```cpp
 class Solution {

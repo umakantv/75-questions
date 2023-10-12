@@ -1,4 +1,6 @@
-# Problem Statement
+# Maximum Consecutive 1s
+
+## Problem Statement
 
 Leetcode: [Maximum Consecutive III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
@@ -17,7 +19,7 @@ Example 2:
     Explanation: [0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1]
 
 
-# Solution
+## Solution
 
 Approach: Sliding Window Technique
 

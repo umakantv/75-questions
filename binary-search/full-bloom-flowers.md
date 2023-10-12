@@ -1,4 +1,6 @@
-# Problem Statement
+# Number of Flowers in Full Bloom
+
+## Problem Statement
 
 Leetcode: [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom)
 
@@ -32,7 +34,7 @@ Constraints:
 * `1 <= people[i] <= 10^9`
 
 
-# Intuition
+## Intuition
 
 Brute-force solution is intuitive. For each person, we can iterate through the flowers and count the number of flowers in full bloom. This is O(P*N) time complexity, where P is the number of people, and N is the number of flowers.
 
@@ -89,7 +91,7 @@ Since the days are not continuous, we can't use binary search directly. We can u
 
 This can be done in O(P*log(N)) time complexity.
 
-# Solution
+## Solution
 
  
 ```cpp

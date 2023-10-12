@@ -30,6 +30,7 @@
 | [LRU Cache](./design/least-recently-used-cache) | [Leetcode](https://leetcode.com/problems/lru-cache/) | ✅ |
 | [Linked List](./design/linked-list) | [Leetcode](https://leetcode.com/problems/design-linked-list/) | ✅ |
 | [Multiset](./design/multiset) | [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | ✅ |
+| [Min-Stack](./design/min-stack) | [Leetcode](https://leetcode.com/problems/min-stack/) | ✅ |
 
 ## Array
 
@@ -112,6 +113,7 @@
 | Alien Dictionary (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/alien-dictionary/) |
 | Graph Valid Tree (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/graph-valid-tree/) |
 | Number of Connected Components in an Undirected Graph (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |
+| [Largest Color Value in a Directed Graph](./graphs/color-value.md) | [Leetcode](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | ✅ ⭕️ |
 
 ---
 
@@ -168,6 +170,7 @@
 | Longest Palindromic Substring | [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) |
 | Palindromic Substrings | [Leetcode](https://leetcode.com/problems/palindromic-substrings/) |
 | Encode and Decode Strings (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/encode-and-decode-strings/) |
+| [Reverse Words in a String](./string/reverse-words-in-a-string) | [Leetcode](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ ⭕️ |
 
 
 ---

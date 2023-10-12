@@ -1,5 +1,6 @@
+# Find in Mountain Array 
 
-# Problem Statement
+## Problem Statement
 
 Leetcode: [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 
@@ -42,7 +43,7 @@ Constraints:
 * `0 <= target <= 109`
 * `0 <= mountain_arr.get(index) <= 109`
 
-# Intuition
+## Intuition
 
 A completely different approach using recursion, optimizing at each recursion step.
 Cache is not required for AC, but good to have.
@@ -81,7 +82,7 @@ Complexity
 
 
 
-# Solution
+## Solution
 
 ```cpp
 /**

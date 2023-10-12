@@ -1,23 +1,23 @@
 
 # Least Recently Used Cache
 
-# Intuition
+## Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 We use a `LinkedList` to move the keys with larger rank to the top whenever we use them. Naturally, the keys with the lowest rank key will become the tail.
 
 We also maintain a `map` of key to `node`.
 
-# Approach
+## Approach
 This solution `LinkedList` to effectively `read` and `set` in cache in $O(1)$ time.
 
-# Complexity
+## Complexity
 - Time complexity: $O(1)$
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
 - Space complexity: $O(capacity)$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-# Code
+## Code
 ```js
 
 class Node {

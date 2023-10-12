@@ -1,7 +1,8 @@
+# Max Number of K-Sum Pairs
 
 ## Problem Statement
 
-LeetCode - [1679](https://leetcode.com/problems/max-number-of-k-sum-pairs). Max Number of K-Sum Pairs
+LeetCode - [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)
 
 You are given an integer array `nums` and an integer `k`.
 
@@ -36,6 +37,7 @@ Constraints:
 * `1 <= nums[i] <= 109`
 * `1 <= k <= 109`
 
+## Solution
 
 ```cpp
 class Solution {

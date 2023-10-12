@@ -2,18 +2,20 @@
 # Multiset
 
 ## Problem
+
 Design a `multiset` with `random` function that will give a random element from the multiset.  
 The probability to get the number should be linearly proportial to the frequency of occurence of that number in the `multiset`.
 
 ## Time Complexity
+
 * `insert`: 
-  * Worst Case: $O(log n)$
-  * Average: $O(1)$
+  * Worst Case: $$O(log n)$$
+  * Average: $$O(1)$$
 * `remove`
-  * Worst Case: $O(log n)$
-  * Average: $O(1)$
+  * Worst Case: $$O(log n)$$
+  * Average: $$O(1)$$
 * `getRandom`
-  * Worst Case: $O(n)$
+  * Worst Case: $$O(n)$$
 
 ```js
 var RandomizedCollection = function() {
