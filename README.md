@@ -57,7 +57,7 @@
 | - | - | - |
 | [Minimum Number of Operations to Make Array Continuous](./binary-search/array-continuous-min-operations) | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | ✅ ⭕️ |
 | [Number of Flowers in Full Bloom](./binary-search/full-bloom-flowers) | [Leetcode](https://leetcode.com/problems/number-of-flowers-in-full-bloom) | ✅ ⭕️ |
-[Find in Mountain Array](./binary-search/find-in-mountain-array) | [Leetcode](https://leetcode.com/problems/find-in-mountain-array/) | ✅ ⭕️ |
+| [Find in Mountain Array](./binary-search/find-in-mountain-array) | [Leetcode](https://leetcode.com/problems/find-in-mountain-array/) | ✅ ⭕️ |
 
 ---
 
