@@ -7,6 +7,7 @@
 - [Topics](#topics)
 	- [Low-Level Design](#low-level-design)
 	- [Array](#array)
+	- [Binary Search](#binary-search)
 	- [Sliding Window](#sliding-window)
 	- [Binary](#binary)
 	- [Dynamic Programming](#dynamic-programming)
@@ -48,8 +49,15 @@
 | [Combination Sum II](https://umakantv.com/blog/combination-sum-ii) | [Leetcode](https://leetcode.com/problems/combination-sum-ii/) | ✅ ⭕️ |
 | Combination Sum III | [Leetcode](https://leetcode.com/problems/combination-sum-iii/) | ✅ ⭕️ |
 | [Asteroid Collision](./stacks/asteroid-collision) | [Leetcode](https://leetcode.com/problems/asteroid-collision/) | ✅ ⭕️ |
-| [Minimum Number of Operations to Make Array Continuous](./arrays/array-continuous-min-operations) | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | ✅ ⭕️ |
+
+---
+
+## Binary Search
+| Title | Link | Tags |
+| - | - | - |
+| [Minimum Number of Operations to Make Array Continuous](./binary-search/array-continuous-min-operations) | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | ✅ ⭕️ |
 | [Number of Flowers in Full Bloom](./binary-search/full-bloom-flowers) | [Leetcode](https://leetcode.com/problems/number-of-flowers-in-full-bloom) | ✅ ⭕️ |
+[Find in Mountain Array](./binary-search/find-in-mountain-array) | [Leetcode](https://leetcode.com/problems/find-in-mountain-array/) | ✅ ⭕️ |
 
 ---
 
@@ -58,6 +66,8 @@
 | Title | Link | Tags |
 | - | - | - |
 | [Longest Substring Without Repeating Characters](./sliding-window/maximum-consecutive-1s) | [Leetcode](https://leetcode.com/problems/max-consecutive-ones-iii/) | ✅ ⭕️ |
+
+---
 
 ## Binary
 
