@@ -113,6 +113,7 @@
 | Alien Dictionary (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/alien-dictionary/) |
 | Graph Valid Tree (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/graph-valid-tree/) |
 | Number of Connected Components in an Undirected Graph (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |
+| [Design Graph With Shortest Path Calculator](./graphs/djiksta-shortest-path.md) | [Leetcode](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | ✅ ⭕️ |
 | [Largest Color Value in a Directed Graph](./graphs/color-value.md) | [Leetcode](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | ✅ ⭕️ |
 
 ---
@@ -170,7 +171,8 @@
 | Longest Palindromic Substring | [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) |
 | Palindromic Substrings | [Leetcode](https://leetcode.com/problems/palindromic-substrings/) |
 | Encode and Decode Strings (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/encode-and-decode-strings/) |
-| [Reverse Words in a String](./string/reverse-words-in-a-string) | [Leetcode](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ ⭕️ |
+| [Reverse Words in a String](./strings/reverse-words-in-a-string) | [Leetcode](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ ⭕️ |
+| [Close Strings](./strings/close-strings) | [Leetcode](https://leetcode.com/problems/determine-if-two-strings-are-close) | ✅ ⭕️ |
 
 
 ---
