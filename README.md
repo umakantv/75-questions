@@ -113,7 +113,7 @@
 | Alien Dictionary (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/alien-dictionary/) |
 | Graph Valid Tree (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/graph-valid-tree/) |
 | Number of Connected Components in an Undirected Graph (Leetcode Premium) | [Leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |
-| [Design Graph With Shortest Path Calculator](./graphs/djiksta-shortest-path.md) | [Leetcode](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | ✅ ⭕️ |
+| [Design Graph With Shortest Path Calculator](./graphs/dijkstra-shortest-path.md) | [Leetcode](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | ✅ ⭕️ |
 | [Largest Color Value in a Directed Graph](./graphs/color-value.md) | [Leetcode](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | ✅ ⭕️ |
 
 ---
